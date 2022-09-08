@@ -35,9 +35,9 @@
     <integer name="config_defaultNotificationLedOff">2000</integer>
 
     <!-- Default value for led color when battery is low on charge. 0xFFFF0000 by default. -->
-    <integer name="config_notificationsBatteryLowARGB">0xFF0C0000</integer>
+    <integer name="config_notificationsBatteryLowARGB">0xFF190000</integer>
     <!-- Default value for led color when battery is medium charged. 0xFFFF3000 by default. -->
-    <integer name="config_notificationsBatteryMediumARGB">0xFF0C0200</integer>
+    <integer name="config_notificationsBatteryMediumARGB">0xFF190400</integer>
     <!-- Default value for led color when battery is fully charged. 0xFF00FF00 by default. -->
-    <integer name="config_notificationsBatteryFullARGB">0xFF000C00</integer>
+    <integer name="config_notificationsBatteryFullARGB">0xFF001900</integer>
 </resources>
